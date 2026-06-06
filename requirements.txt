@@ -9,3 +9,4 @@ rouge-score==0.1.2
 flask
 scipy
 sentencepiece
+flask-cors==4.0.0
